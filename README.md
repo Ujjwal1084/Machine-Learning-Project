@@ -1,1 +1,2 @@
 # Machine-Learning-Project
+This project aims to predict house prices using machine learning algorithms. By analyzing various features such as location, size, number of bedrooms, etc., The project includes data preprocessing, feature engineering, model training, evaluation, and deployment using Python and popular libraries like Scikit-learn and Pandas. the model will predict the price of a house accurately.
